@@ -63,8 +63,8 @@
 </div> 
 
 </td></tr></table>  
-
-<br/>  -->
+ -->
+<br/> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4jd46k" alt="4jd46k" /></a> </p>
 
 ## Connect with me  
@@ -91,15 +91,11 @@
 
 
 ## Github Stats  
-[![GitHub stars](https://img.shields.io/github/stars/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/network)
-[![GitHub release](https://img.shields.io/github/release/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/releases)
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
 
-<br/>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
-
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
+</div>
 
 <!-- ## Recent Blog Posts  
   
