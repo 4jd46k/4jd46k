@@ -88,12 +88,12 @@
 
 
 ## Github Stats  
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=4jd46k&hide_border=true&layout=compact](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)" align="left" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4jd46k&hide_border=true&layout=compact" align="left" style="width: 100%" />  
 
 <br/>  
 
 
-## Recent Blog Posts  
+<!-- ## Recent Blog Posts  
   
 
 <br/>  
@@ -104,7 +104,7 @@
 
   
 
-<br/>  
+<br/>  -->
 
 <div align="center">
             <a href="https://paypal.me/4jd46k" target="_blank" style="display: inline-block;">
