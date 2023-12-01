@@ -97,9 +97,9 @@
 
 ## Github Stats  
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
 </div>
 
 <!-- ## Recent Blog Posts  
