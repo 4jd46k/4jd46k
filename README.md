@@ -65,7 +65,7 @@
 </td></tr></table>  
 
 <br/>  -->
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4jd46k" alt="4jd46k" /></a> </p>
 
 ## Connect with me  
 <div align="center">
@@ -78,6 +78,9 @@
 <a href="https://linkedin.com/in/ajin-em" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://medium.com/@ajinem2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajinem2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ajinem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajinem" height="30" width="40" /></a>
+</p>
 <a href="https://instagram.com/ajin.em" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -93,6 +96,9 @@
 [![GitHub release](https://img.shields.io/github/release/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/releases)
 
 <br/>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
 
 
 <!-- ## Recent Blog Posts  
