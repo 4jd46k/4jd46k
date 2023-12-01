@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" align="center" style="width: 100%" />
 </div>  
+<div align="center">
+<img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" align="center" style="width: 100%" />
+</div> 
   
 
 ### <div align="center">I'm Ajin E M, a  full-stack Python developer  👨‍💻  🚀</div>  
