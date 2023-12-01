@@ -64,6 +64,7 @@
 
 </td></tr></table>  
  -->
+ ----
 <br/> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4jd46k" alt="4jd46k" /></a> </p>
 
@@ -86,7 +87,7 @@
 </a>  
 </div>  
   
-
+----
 <br/>  
 <div align="center">
             <a href="https://paypal.me/4jd46k" target="_blank" style="display: inline-block;">
@@ -114,5 +115,5 @@
 
 <br/> 
 
-----
+
 
