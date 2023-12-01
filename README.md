@@ -3,8 +3,6 @@
 </div>  -->
 <div align="center">
 <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" align="center" style="width: 100%" />
-
-<img src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/5X/e/1/8/3/e1838ba5fafa720779567659fec8ded243cf3c7e.gif" align="center" style="width: 100%" />
 </div> 
   
 
