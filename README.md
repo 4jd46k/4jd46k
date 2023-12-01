@@ -88,7 +88,9 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4jd46k&hide_border=true&layout=compact" align="left" style="width: 100%" />  
+[![GitHub stars](https://img.shields.io/github/stars/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/network)
+[![GitHub release](https://img.shields.io/github/release/4jd46k/4jd46k.svg?style=flat-square)](https://github.com/username/repository/releases)
 
 <br/>  
 
