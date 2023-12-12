@@ -66,7 +66,6 @@
  -->
  ----
 <br/> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4jd46k" alt="4jd46k" /></a> </p>
 
 
 ## Connect with me  
@@ -95,22 +94,13 @@
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"/>
 </div>
-
-## Github Stats  
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
-
-</div>
-
-<!-- ## Recent Blog Posts  
+<!--
+  ## Github Stats  
+  <div>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=4jd46k&" alt="4jd46k" /></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=4jd46k&show_icons=true&locale=en&layout=compact" alt="4jd46k" /></p>
   
-
-<br/>  
-
-  
-
-<br/>   -->
+  </div>  -->
 
   
 
