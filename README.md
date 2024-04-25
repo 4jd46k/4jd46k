@@ -6,7 +6,7 @@
 </div> 
   
 
-### <div align="center">I'm Ajin E M, a  full-stack Python developer  👨‍💻  🚀</div>  
+### <div align="center">I'm Ajin E M, a  full-stack Python developer  👨‍💻  </div>  
   
 
 *🌱 I’m currently learning Django, JavaScript and Rest Framework*  
