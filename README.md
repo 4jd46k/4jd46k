@@ -9,7 +9,7 @@
 ### <div align="center">I'm Ajin E M, a  full-stack Python developer  👨‍💻  </div>  
   
 
-*🌱 I’m currently learning Django, JavaScript and Rest Framework*  
+*🌱 I’m currently learning React*  
   
 
 *❓ Ask me about anything related to Python and related technologies*  
